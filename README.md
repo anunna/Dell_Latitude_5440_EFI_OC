@@ -2,7 +2,7 @@
 
 OpenCore Setup for a Dell Latitude 5440
 
-**CURRENT:** Sonoma 14 running OC 0.9.1
+**CURRENT:** Sonoma 14 running OC 0.9.6
 
 ## Specs
 
@@ -32,10 +32,11 @@ OpenCore Setup for a Dell Latitude 5440
 - Trackpad + Gestures
 - Bluetooth
 - Biometrics
+- Touchscreen
 
 ## Not working
- 
- - N/A
+
+- N/A
 
 ## TODO
 
