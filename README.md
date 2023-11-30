@@ -1,9 +1,5 @@
 # Dell Latitude 5440
 
-OpenCore Setup for a Dell Latitude 5440
-
-**CURRENT:** Sonoma 14 running OC 0.9.6
-
 # EFI Details
 ** Current MacOS**: 14 (Sonoma)
 <br>
