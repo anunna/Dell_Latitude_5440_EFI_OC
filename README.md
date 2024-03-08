@@ -3,9 +3,9 @@
 # EFI Details
 **Current MacOS**: 14 (Sonoma)
 <br>
-**Current OpenCore**: 0.9.6
+**Current OpenCore**: 0.9.8
 <br>
-**Release date**: 06/11/2023
+**Release date**: 05/02/2024
 
 # Specs
 
